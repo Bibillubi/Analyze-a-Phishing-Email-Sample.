@@ -1,0 +1,5 @@
+From: PayPal Support <support@paypai.com>
+To: you@example.com
+Subject: Urgent: Account Issue
+Received: from mail.fake.com (203.0.113.20)
+Authentication-Results: spf=fail dkim=none dmarc=fail
