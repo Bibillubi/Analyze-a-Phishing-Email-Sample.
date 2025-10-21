@@ -72,7 +72,7 @@ Key Learnings
 📁 Email-Header-Analysis/
  ├── header_analysis_report.pdf
  ├── url_virustotal_demo.pdf
- ├── sample_email_header.txt
+ ├── sample_email_header
  ├── README.md
 ```
 Conclusion
